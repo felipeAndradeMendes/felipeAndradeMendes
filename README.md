@@ -30,8 +30,8 @@ Minha formação em publicidade e experiência empreendendo me proporcionaram ha
 
 ## GitHub Stats
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeAndradeMendes&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeAndradeMendes)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeAndradeMendes&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeAndradeMendes&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Interesses e Referências
