@@ -19,19 +19,19 @@ Minha formação em publicidade e experiência empreendendo me proporcionaram ha
 
 ## Contato
 
-- Email: [seu_email@example.com](mailto:felipemadruga@gmail.com)
-- LinkedIn: [seu_perfil]([link_para_o_seu_perfil](https://www.linkedin.com/in/felipe-mendes-web-dev/))
+- Email: [felipemadruga@gmail.com](mailto:felipemadruga@gmail.com)
+- LinkedIn: [felipe-mendes-web-dev](link_para_o_seu_perfil)
 - WhatsApp: [+61 99614-8889](https://wa.me/61996148889)
 
 ## Projetos Destacados
 
-- [Projeto 1](link_para_o_repositório)
-- [Projeto 2](link_para_o_repositório)
-- [Projeto 3](link_para_o_repositório)
+- [Recipes](https://github.com/felipeAndradeMendes/recipes)
+- [Front-end On-line Store](https://github.com/felipeAndradeMendes/frontend_online_store)
+- [Solar System](https://github.com/felipeAndradeMendes/solar_system)
 
 
 ## Interesses e Referências
 
-Tenho interesse em explorar novas tecnologias e aprimorar meus conhecimentos em Java, Spring e Flutter. Empresas que podem fornecer referências sobre meu trabalho incluem [Empresa 1](link_para_a_empresa1) e [Empresa 2](link_para_a_empresa2).
+Tenho interesse em explorar novas tecnologias e aprimorar meus conhecimentos em Java, Spring e Flutter. Empresas que podem fornecer referências sobre meu trabalho incluem [Estúdio Madruga](https://www.estudiomadruga.com.br/).
 
 Fique à vontade para entrar em contato comigo. Estou aberto a oportunidades e colaborações!
