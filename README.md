@@ -14,9 +14,6 @@ Minha formação em publicidade e experiência empreendendo me proporcionaram ha
 - **Ferramentas**: Docker, Git
 - **Front-end**: HTML, CSS, Tailwind, Bootstrap
 - **Metodologias ágeis**: Kanban, Scrum
-  https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
-  https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
-
 
 
 ## Contato
