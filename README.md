@@ -1,7 +1,5 @@
 # Felipe Mendes
 
-![Foto de perfil]((https://github.com/account))
-
 Olá, sou Felipe! Depois de 18 anos à frente da minha própria empresa, decidi mergulhar no mundo da TI e me dedicar integralmente a esse universo de novos desafios e solução de problemas.
 
 ## Sobre mim
@@ -16,6 +14,10 @@ Minha formação em publicidade e experiência empreendendo me proporcionaram ha
 - **Ferramentas**: Docker, Git
 - **Front-end**: HTML, CSS, Tailwind, Bootstrap
 - **Metodologias ágeis**: Kanban, Scrum
+  https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+  https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
+
+
 
 ## Contato
 
