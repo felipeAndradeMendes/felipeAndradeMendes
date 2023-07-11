@@ -11,7 +11,7 @@ Minha formação em publicidade e experiência empreendendo me proporcionaram ha
 - **Linguagens de programação**: JavaScript, TypeScript
 - **Frameworks**: React.js, Node.js
 - **Banco de dados**: MySQL
-- **Ferramentas**: Docker, Git
+- **Ferramentas**: Docker, Git, Unix/Linux
 - **Front-end**: HTML, CSS, Tailwind, Bootstrap
 - **Metodologias ágeis**: Kanban, Scrum
 
