@@ -28,6 +28,8 @@ Minha formação em publicidade e experiência empreendendo me proporcionaram ha
 - [Front-end On-line Store](https://github.com/felipeAndradeMendes/frontend_online_store)
 - [Solar System](https://github.com/felipeAndradeMendes/solar_system)
 
+  [![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeAndradeMendes)](https://github.com/felipeAndradeMendes/github-readme-stats)
+
 
 ## Interesses e Referências
 
