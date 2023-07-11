@@ -28,7 +28,10 @@ Minha formação em publicidade e experiência empreendendo me proporcionaram ha
 - [Front-end On-line Store](https://github.com/felipeAndradeMendes/frontend_online_store)
 - [Solar System](https://github.com/felipeAndradeMendes/solar_system)
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeAndradeMendes)](https://github.com/anuraghazra/github-readme-stats)
+## GitHub Stats
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeAndradeMendes&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeAndradeMendes)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Interesses e Referências
