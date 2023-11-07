@@ -8,13 +8,33 @@ Minha formação em publicidade e experiência empreendendo me proporcionaram ha
 
 ### Tecnologias
 
-- **Linguagens de programação**: JavaScript, TypeScript, Python, Java
-- **Frameworks**: React.js, Node.js, Spring
-- **Outras tecnologias**: Express, Sequelize, RTL, Docker
-- **Banco de dados**: MySQL
-- **Ferramentas**: Docker, Git, Unix/Linux
-- **Front-end**: HTML, CSS, Tailwind, Bootstrap
-- **Metodologias ágeis**: Kanban, Scrum
+**JavaScript**
+ \_ React.js: Redux, Context API, Hooks, RTL
+**Node.js**
+ \_ Express, Sequelize ORM, JWT
+ \_ Testes unitários e integração com Mocha, Chai e Sinon
+**TypeScript**
+**Python**
+**Java**
+ \_ Spring (Boot, Data, Web, Security) 
+**HTML & CSS**
+**Outras**
+ \_ Unix/Linux & Bash
+ \_ Git
+ \_ Docker
+ \_ MySQL
+ \_ Arquitetura em camadas (MSC/MVC)
+ \_ REST APIs
+ \_ Princípios SOLID
+ \_ Metodologias ágeis: SCRUM e Kanban
+
+**Soft Skills**
+- Curiosidade ilimitada
+- Facilidade para trabalhar em equipe
+- Cumprimento de prazos
+- Organização
+
+Atualmente estou estudando: Flask, websockets e Angular.
 
 
 ## Contato
