@@ -1,6 +1,6 @@
 # Felipe Mendes
 
-Olá, sou Felipe! Depois de 18 anos à frente da minha própria empresa, decidi mergulhar no mundo da TI e me dedicar integralmente a esse universo de novos desafios e solução de problemas.
+Depois de 18 anos à frente da minha própria empresa, decidi mergulhar no mundo da TI e me dedicar integralmente a esse universo de novos desafios e solução de problemas.
 
 ## Sobre mim
 
@@ -9,24 +9,29 @@ Minha formação em publicidade e experiência empreendendo me proporcionaram ha
 ### Tecnologias
 
 **JavaScript**
- \_ React.js: Redux, Context API, Hooks, RTL
+ - React.js: Redux, Context API, Hooks, RTL
+   
 **Node.js**
- \_ Express, Sequelize ORM, JWT
- \_ Testes unitários e integração com Mocha, Chai e Sinon
+ -  Express, Sequelize ORM, JWT
+ -  Testes unitários e integração com Mocha, Chai e Sinon
+   
 **TypeScript**
+
 **Python**
+
 **Java**
- \_ Spring (Boot, Data, Web, Security) 
+ - Spring (Boot, Data, Web, Security) 
 **HTML & CSS**
+
 **Outras**
- \_ Unix/Linux & Bash
- \_ Git
- \_ Docker
- \_ MySQL
- \_ Arquitetura em camadas (MSC/MVC)
- \_ REST APIs
- \_ Princípios SOLID
- \_ Metodologias ágeis: SCRUM e Kanban
+ - Unix/Linux & Bash
+ - Git
+ - Docker
+ - MySQL
+ - Arquitetura em camadas (MSC/MVC)
+ - REST APIs
+ - Princípios SOLID
+ - Metodologias ágeis: SCRUM e Kanban
 
 **Soft Skills**
 - Curiosidade ilimitada
@@ -34,7 +39,7 @@ Minha formação em publicidade e experiência empreendendo me proporcionaram ha
 - Cumprimento de prazos
 - Organização
 
-Atualmente estou estudando: Flask, websockets e Angular.
+Atualmente estou estudando: **Flask**, **Angular** e **Websokets**.
 
 
 ## Contato
