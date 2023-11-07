@@ -8,8 +8,9 @@ Minha formação em publicidade e experiência empreendendo me proporcionaram ha
 
 ### Tecnologias
 
-- **Linguagens de programação**: JavaScript, TypeScript
-- **Frameworks**: React.js, Node.js
+- **Linguagens de programação**: JavaScript, TypeScript, Python, Java
+- **Frameworks**: React.js, Node.js, Spring
+- **Outras tecnologias**: Express, Sequelize, RTL, Docker
 - **Banco de dados**: MySQL
 - **Ferramentas**: Docker, Git, Unix/Linux
 - **Front-end**: HTML, CSS, Tailwind, Bootstrap
